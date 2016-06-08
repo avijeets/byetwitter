@@ -1,0 +1,4 @@
+ByeTwitter
+----
+
+ByeTwitter runs a command on your shell to get rid of Twitter for Mac and the caches/files that came with it.  
